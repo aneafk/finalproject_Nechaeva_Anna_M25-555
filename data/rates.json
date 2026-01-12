@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-01-12T23:56:43.732856",
+  "timestamp": "2026-01-13T00:12:07.718561",
   "source": "coingecko, exchangerate",
   "base_currency": "USD",
   "rates": {
-    "BTC_USD": 91377,
-    "ETH_USD": 3100.31,
-    "SOL_USD": 140.19,
-    "ADA_USD": 0.389192,
+    "BTC_USD": 91350,
+    "ETH_USD": 3101.54,
+    "SOL_USD": 139.87,
+    "ADA_USD": 0.388079,
     "DOT_USD": 2.06,
     "EUR_USD": 0.8597,
     "GBP_USD": 0.7462,

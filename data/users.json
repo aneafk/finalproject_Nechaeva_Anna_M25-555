@@ -12,5 +12,12 @@
     "hashed_password": "2f18a6a5f01bddd3a76f7c42e40a7588074ecca9de5aff2b3a07737042897803",
     "salt": "7603e84c8ffa4c19",
     "registration_date": "2026-01-12T23:56:15.308026"
+  },
+  {
+    "user_id": 3,
+    "username": "megadealer",
+    "hashed_password": "59c5367c37ee0f91d7babca6103f9676f9a005c99bb50093f0aeb80c0aec1ac6",
+    "salt": "2fbea388d890da79",
+    "registration_date": "2026-01-13T00:11:34.499461"
   }
 ]

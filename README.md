@@ -1,1 +1,4 @@
-# finalproject_Nechaeva_Anna_M25-555
+### finalproject_Nechaeva_Anna_M25-555
+### Учебная платформа для симуляции торговли валютами
+
+

@@ -1,0 +1,16 @@
+[
+  {
+    "user_id": 1,
+    "username": "testov",
+    "hashed_password": "595ac00f9c5aec8e9d9796f8968b5c3b6d24afd1a29c24c009b37812d4cfdab6",
+    "salt": "cab1d76a4736b03f",
+    "registration_date": "2026-01-12T23:48:08.650440"
+  },
+  {
+    "user_id": 2,
+    "username": "superdealer",
+    "hashed_password": "2f18a6a5f01bddd3a76f7c42e40a7588074ecca9de5aff2b3a07737042897803",
+    "salt": "7603e84c8ffa4c19",
+    "registration_date": "2026-01-12T23:56:15.308026"
+  }
+]
